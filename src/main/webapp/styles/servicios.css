@@ -1,0 +1,34 @@
+/* Animalista: natural, cálido y armonioso con la naturaleza */
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 0.2em;
+  
+}
+
+h2 {
+    color: #004080;
+    text-align: center;
+    font-size: 2em;
+    margin-top: 0;
+}
+
+
+
+.servicios ul {
+    list-style: none;
+    padding: 0;
+}
+
+.servicios li {
+    background-color: #e7f6d5;
+    margin-bottom: 1em;
+    padding: 1em;
+    border-left: 6px solid #004080;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+}
+
+.servicios li:hover {
+    background-color: #dddddd;
+}
